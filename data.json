@@ -1,0 +1,22 @@
+{
+    "projects": [
+        {
+            "id": 0,
+            "project_name": "Random Quote Generator",
+            "description": "This project displays a few of my favorite quotes.",
+            "technologies": ["Javascript", "HTML", "CSS"],
+            "live_link": "https://dalythu.github.io/A-Random-Quote-Generator/",
+            "github_link": "https://github.com/dalythu/A-Random-Quote-Generator", 
+            "image_urls": ["/static/images/{img1}", "/static/images/{img2}", "/static/images/{img1}"]
+        },
+        {
+            "id": 1,
+            "project_name": "Random Quote Generator",
+            "description": "This project displays a few of my favorite quotes.",
+            "technologies": ["Javascript", "HTML", "CSS"],
+            "live_link": "https://dalythu.github.io/A-Random-Quote-Generator/",
+            "github_link": "https://github.com/dalythu/A-Random-Quote-Generator", 
+            "image_urls": ["/static/images/{img1}", "/static/images/{img2}", "/static/images/{img1}"]
+        }
+    ]
+}
