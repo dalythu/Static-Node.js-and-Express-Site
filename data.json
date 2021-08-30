@@ -7,7 +7,8 @@
             "technologies": ["Javascript", "HTML", "CSS"],
             "live_link": "https://dalythu.github.io/A-Random-Quote-Generator/",
             "github_link": "https://github.com/dalythu/A-Random-Quote-Generator", 
-            "image_urls": ["/static/images/{img1}", "/static/images/{img2}", "/static/images/{img1}"]
+            "image_urls": ["/static/img/project-page-0", "/static/img/project-page-0", "/static/img/project-page-0"],
+            "image_alt": "The Random Quote Generator project"
         },
         {
             "id": 1,
@@ -16,7 +17,8 @@
             "technologies": ["Javascript", "HTML", "CSS"],
             "live_link": "https://dalythu.github.io/A-Random-Quote-Generator/",
             "github_link": "https://github.com/dalythu/A-Random-Quote-Generator", 
-            "image_urls": ["/static/images/{img1}", "/static/images/{img2}", "/static/images/{img1}"]
+            "image_urls": ["/static/img/project-page-1", "/static/img/project-page-1", "/static/img/project-page-1"],
+            "image_alt": "The Random Quote Generator project"
         }
     ]
 }
