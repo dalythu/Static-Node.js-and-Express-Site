@@ -2,13 +2,15 @@
     "projects": [
         {
             "id": 0,
-            "project_name": "Random Quote Generator",
-            "description": "This project displays a few of my favorite quotes.",
+            "project_name": "Data Pagination and Filtering",
+            "description": "This project uses selectors, event listeners and DOM elements to build a paginated webpage.",
             "technologies": ["Javascript", "HTML", "CSS"],
-            "live_link": "https://dalythu.github.io/A-Random-Quote-Generator/",
-            "github_link": "https://github.com/dalythu/A-Random-Quote-Generator", 
-            "image_urls": ["/static/img/project-page-0", "/static/img/project-page-0", "/static/img/project-page-0"],
-            "image_alt": "The Random Quote Generator project"
+            "live_link": "https://dalythu.github.io/Data-Pagination-and-Filtering/",
+            "github_link": "https://github.com/dalythu/Data-Pagination-and-Filtering", 
+            "image_urls": ["/static/img/project-page-0"],
+            "image_alt": "Data Pagination and Filtering Project", 
+            "image_screenshots": ["/static/img/project-page-0-screenshot-1"]
+
         },
         {
             "id": 1,
@@ -17,8 +19,9 @@
             "technologies": ["Javascript", "HTML", "CSS"],
             "live_link": "https://dalythu.github.io/A-Random-Quote-Generator/",
             "github_link": "https://github.com/dalythu/A-Random-Quote-Generator", 
-            "image_urls": ["/static/img/project-page-1", "/static/img/project-page-1", "/static/img/project-page-1"],
-            "image_alt": "The Random Quote Generator project"
+            "image_urls": ["/static/img/project-page-1"],
+            "image_alt": "The Random Quote Generator project",
+            "image_screenshots":["/static/img/project-page-1-screenshot-1"]
         }
     ]
 }
