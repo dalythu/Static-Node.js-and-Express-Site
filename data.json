@@ -22,6 +22,39 @@
             "image_urls": ["/static/img/project-page-1"],
             "image_alt": "The Random Quote Generator project",
             "image_screenshots":["/static/img/project-page-1-screenshot-1"]
+        },
+        {
+            "id": 2,
+            "project_name": "Interactive Form",
+            "description": "This project demonstrates actions based on user input",
+            "technologies": ["Javascript", "HTML", "CSS"],
+            "live_link": "https://dalythu.github.io/Interactive-Form/",
+            "github_link": "https://github.com/dalythu/Interactive-Form",
+            "image_urls": ["/static/img/project-page-2"],
+            "image_alt": "Interactive Form project",
+            "image_screenshots":["/static/img/project-page-2-screenshot-1"]
+        },
+        {
+            "id": 3,
+            "project_name": "OOP Game Show App",
+            "description": "This project displays a few of my favorite quotesbrowser-based, word guessing game: Phrase Hunter.",
+            "technologies": ["Javascript", "HTML", "CSS"],
+            "live_link": "https://dalythu.github.io/OOP-Game-Show-App/",
+            "github_link": "https://github.com/dalythu/OOP-Game-Show-App",
+            "image_urls": ["/static/img/project-page-3"],
+            "image_alt": "OOP Game Show App project",
+            "image_screenshots":["/static/img/project-page-3-screenshot-1"]
+        },
+        {
+            "id": 4,
+            "project_name": "Public API Requests",
+            "description": "This project displays an employee directory by communicating with a third-party API.",
+            "technologies": ["Javascript", "HTML", "CSS"],
+            "live_link": "https://dalythu.github.io/Public-API-Requests/",
+            "github_link": "https://github.com/dalythu/Public-API-Requests",
+            "image_urls": ["/static/img/project-page-4"],
+            "image_alt": "Public API Requests project",
+            "image_screenshots":["/static/img/project-page-4-screenshot-1"]
         }
     ]
 }
